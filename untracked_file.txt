@@ -2,6 +2,6 @@ hello untracked
 
 {
 writing some extra code here
-}
+}master
 
 changed after staging
