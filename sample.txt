@@ -1,2 +1,2 @@
 sample text 1
-sampl
+sample edited from github
