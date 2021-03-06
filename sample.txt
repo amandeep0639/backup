@@ -17,5 +17,6 @@ saved the password on git
 }
 changes made sfter creating extraa 
 we have added an untracked file
-delete
+
+del
 
