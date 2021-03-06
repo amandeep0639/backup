@@ -2,6 +2,7 @@ hello untracked
 
 {
 writing some extra code here
-}master
+
+}master & side2
 
 changed after staging
