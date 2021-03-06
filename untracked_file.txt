@@ -1,2 +1,2 @@
 hello untracked
-chnaged after staging
+changed after staging
