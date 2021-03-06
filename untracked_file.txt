@@ -1,2 +1,7 @@
 hello untracked
+
+{
+writing some extra code here
+}
+
 changed after staging

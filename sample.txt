@@ -1,4 +1,21 @@
+
 hh
 hh
 hhh
 hhh
+
+sample text 1
+
+sample edited from github from local
+
+sample edited from github from github
+
+saved the password on git
+{
+//writing some code here
+
+}
+changes made sfter creating extraa 
+we have added an untracked file
+delete
+
