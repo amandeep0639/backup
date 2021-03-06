@@ -1,2 +1,2 @@
 sample text 1
-sample edited from github
+sample edited from github from local
